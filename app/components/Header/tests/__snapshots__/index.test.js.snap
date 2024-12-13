@@ -61,7 +61,7 @@ exports[`<Header /> should render a div 1`] = `
     <div
       class="heading"
     >
-      HR LLM BOT
+      PUBMED LLM BOT
     </div>
     <div
       class="c2"

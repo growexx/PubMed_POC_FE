@@ -68,8 +68,8 @@ export default function App() {
 
   return (
     <AppWrapper data-testid="AppRoutes">
-      <Helmet titleTemplate="%s - HR LLM BOT" defaultTitle="HR ">
-        <meta name="description" content="A HR LLM BOT Application" />
+      <Helmet titleTemplate="%s - PUBMED LLM BOT" defaultTitle="HR ">
+        <meta name="description" content="A PUBMED LLM BOT Application" />
         {FAV_ICONS.map((favIcon, index) => (
           <link {...favIcon} key={index} />
         ))}
