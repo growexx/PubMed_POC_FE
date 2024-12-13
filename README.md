@@ -1,10 +1,10 @@
-# LLM_POC_ELMC_New_UI_FE
-LLM_POC_ELMC with UI frontend
+# PUBMED_LLM_BOT_POC FRONT END
+PUBMED_LLM_BOT_POC  with UI frontend
 
 Steps:
 
 step 1 :- Install node package manager using: npm install --legacy-peer-deps
 
-step 2 :- Run the frontend service for LLM_POC_ELMC using: npm start
+step 2 :- Run the frontend service for PUBMED_LLM_BOT_POC  using: npm start
 
 We are now ready to go with the link.
