@@ -35,7 +35,7 @@ const DatabaseDropdown = ({ dbName, setDBName }) => {
       const optionData = response.models;
 
       setData({ isLoading: false, options: optionData || {} });
-      setSelected(optionData.OpenSource[0]); // Select the first paid option by default
+      setSelected(optionData.Paid[0]); // Select the first paid option by default
     } catch (error) {
       setData(prev => ({ ...prev, isLoading: false }));
       notification.error({ message: error.message });
